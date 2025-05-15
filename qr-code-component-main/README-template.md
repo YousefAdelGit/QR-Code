@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-![desktop-version](./design/desktop Screenshot.png)
+![desktop-version](./design/desktop-design.jpg)
 
 ![mobile-version](./design/mobile Screenshot.png)
 
